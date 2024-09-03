@@ -2,7 +2,7 @@
 \usepackage{amsmath}
 \usepackage{array}
 \usepackage[legalpaper, margin=0.4in]{geometry}
-
+\usepackage{graphicx} 
 
 \title{Linear Optimization Set 1}
 \author{Student Name: Erla Priyanka}
@@ -101,6 +101,9 @@ Extra & 500 & 1700 & 0 \\
 \subsection*{Optimized Maximum Profit}
 \$52,400 per day.
 \vspace{290pt}
+\begin{center}
+    \includegraphics[width=\textwidth]{Q1.png} % Adjust the width as needed
+\end{center}
 \newpage
 
 
@@ -172,6 +175,8 @@ Subcontracted & 345.47 & 0 \\
 \subsection*{Maximum Profit}
 \$16,104.13 per month.
 \newpage
-\vspace*{\fill}  % Fills the space until halfway down the page
+\begin{center}
+    \includegraphics[width=\textwidth]{Q2.png} % Adjust the width as needed
+\end{center} % Fills the space until halfway down the page
 
 \end{document}
